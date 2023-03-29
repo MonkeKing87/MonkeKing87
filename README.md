@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - Web and Game dev
-- 2d Pixel and Vector Art Enthusiast
+- 2d Pixel Art Enthusiast
 - Learning Sound Design and Blender 3D
 
 - ⚡ Languages : C#, Python, Javascript

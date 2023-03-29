@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- Web and Game dev
-- 2d Pixel Art Enthusiast
-- Learning Sound Design and Blender 3D
+- 💻 Web and Game dev
+- 🎨 2d Pixel Art Enthusiast
+- 🎼 Learning Sound Design and Blender 3D
 
 - ⚡ Languages : C#, Python, Javascript
 - 🎮 Engines : Unity
